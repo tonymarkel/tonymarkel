@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tonymarkel
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning OCI
+- 🌱 I’m currently learning all things cloud
 - 💞️ I’m looking to collaborate on utilities and stuff
 - 📫 How to reach me: Best not to. I'll find you.
 
